@@ -78,7 +78,7 @@ Please support this project and be a part of something meaningful and impactful.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to express my sincere gratitude to [WebDevSimplified]([https://github.com/WebDevSimplified/transparent-login-form]) for this design.
+I would like to express my sincere gratitude to [WebDevSimplified](https://github.com/WebDevSimplified/transparent-login-form) for this design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
