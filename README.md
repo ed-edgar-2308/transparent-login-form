@@ -18,7 +18,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Home | Agency](https://ralph2308s.github.io/transparent-login-form/)
+- [Transparent Login Form](https://ralph2308s.github.io/transparent-login-form/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
