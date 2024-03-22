@@ -10,6 +10,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>Tailwind</li>
+    <li>JavaScript</li>
   </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
